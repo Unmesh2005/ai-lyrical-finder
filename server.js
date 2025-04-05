@@ -80,6 +80,7 @@ app.post('/api/lyrics', async (req, res) => {
                 'User-Agent': 'LyricalAI/1.0'
             }
         });
+        
         if (lyricsResponse.data.lyrics) {
             return res.json({ 
                 lyrics: lyricsResponse.data.lyrics,
