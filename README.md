@@ -16,6 +16,8 @@ AI-powered application that helps users find and explore song lyrics based on th
 
 ## Getting Started
 Clone the repo and install dependencies:
+## LINKS
+https://ai-lyrical-finder.onrender.com/
 
 ```bash
 git clone https://github.com/your-username/ai-lyrical-finder.git
